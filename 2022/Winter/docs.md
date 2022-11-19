@@ -1,10 +1,12 @@
 ## ↘️ Base Game
+
 <ul>
     <li>You need a functioning version of Minecraft. <b><i>Only Java Edition</b></i> will work with mods.</li>
     <li>This server is on Minecraft verison 1.12.2.</li>
 </ul>
 
 ## ↘️ Before Installation - ⚠️REQUIRED⚠️
+
 <ul>
     <li>Make sure to add the 1.12.2 profile to your launcher. Go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".</li>
     <li>Click "Create", then run that new profile. Close the game as soon as the menu appears. You can close the launcher.</li>
