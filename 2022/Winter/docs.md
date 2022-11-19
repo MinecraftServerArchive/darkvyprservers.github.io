@@ -1,26 +1,26 @@
 ## ↘️ Base Game
-
 <ul>
     <li>You need a functioning version of Minecraft. <b><i>Only Java Edition</b></i> will work with mods.</li>
     <li>This server is on Minecraft verison 1.12.2.</li>
 </ul>
 
-## ↘️ Before Installation - ⚠️REQUIRED⚠️
-
+## ↘️ Before Installation
 <ul>
     <li>Make sure to add the 1.12.2 profile to your launcher. Go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".</li>
-    <li>Click "Create", then run that new profile. Close the game as soon as the menu appears. You can close the launcher.</li>
+    <li>After this, drop down the menu called "More Options", scroll down, then change <b>THE GREEN UNDERLINED NUMBER</b> to "5":<br /><img src="https://i.darkvypr.com/jvm-args.jpg" /></li>
+    <li>Click "Create".</li>
 </ul>
 
 ## ↘️ Installation
 
 <ol>
-    <li>Download and install Forge. Follow the instructions that came with it or use YouTube if you don't know how.</li>
+    <li>Download the <a target="_blank" href="https://drive.google.com/u/1/uc?id=1xaXSKPThHabcB3j5idpCYCFnhf4wMinM&export=download">Mod Package.</a></li>
+    <li>Install Forge from the package. Follow the instructions here if you dont know how: <iframe width="560" height="315" src="https://www.youtube.com/embed/JvbJbkd41mk?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+    <li><a href="https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar">Download OptiFine.</a> After downloaded, drop the JAR file into <b><i>.minecraft\mods</i></b>.</li>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
-    <li>After this, drop down the menu called "More Options", scroll down, then change <b>THE GREEN UNDERLINED NUMBER</b> to "5":<br /><img src="https://i.darkvypr.com/jvm-args.jpg" /></li>
 </ol>
 
 ## ↘️ Mods List
