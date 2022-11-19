@@ -8,7 +8,7 @@
 
 1. Make sure to add the 1.12.2 profile to your launcher. Inside the launcher, go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".
 
-1. After this, drop down the menu called "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER:**
+1. After this, drop down the menu called "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER TO A 5:**
 
 ![JVM ARGS](https://i.darkvypr.com/jvm-args.jpg)
 
