@@ -4,22 +4,21 @@
     <li>This server is on Minecraft verison 1.12.2.</li>
 </ul>
 
-## ↘️ Before Installation
+## ↘️ Before Installation - ⚠️REQUIRED⚠️
 <ul>
     <li>Make sure to add the 1.12.2 profile to your launcher. Go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".</li>
-    <li>After this, drop down the menu called "More Options", scroll down, then change <b>THE GREEN UNDERLINED NUMBER</b> to "5":<br /><img src="https://i.darkvypr.com/jvm-args.jpg" /></li>
-    <li>Click "Create".</li>
+    <li>Click "Create", then run that new profile. Close the game as soon as the menu appears. You can close the launcher.</li>
 </ul>
 
 ## ↘️ Installation
 
 <ol>
     <li>Download and install Forge. Follow the instructions that came with it or use YouTube if you don't know how.</li>
-    <li><a href="https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar">Download OptiFine.</a> After downloaded, drop the JAR file into <b><i>.minecraft\mods</i></b>.</li>
     <li></li>
     <li></li>
     <li></li>
     <li></li>
+    <li>After this, drop down the menu called "More Options", scroll down, then change <b>THE GREEN UNDERLINED NUMBER</b> to "5":<br /><img src="https://i.darkvypr.com/jvm-args.jpg" /></li>
 </ol>
 
 ## ↘️ Mods List
