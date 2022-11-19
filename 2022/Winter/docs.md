@@ -8,23 +8,27 @@
 
 1. Make sure to add the 1.12.2 profile to your launcher. Inside the launcher, go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".
 
-1. After this, drop down the menu called "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER TO A 5:**
-
-![JVM ARGS](https://i.darkvypr.com/jvm-args.jpg)
-
-- Click "Create".
+1. Click "Create", then run that profile. You may close your game when it loads to the menu.
 
 ## ↘️ Installation
 
 1. Download the [Mod Package](https://drive.google.com/u/1/uc?id=1xaXSKPThHabcB3j5idpCYCFnhf4wMinM&export=download).
 
-1. Install Forge from the package. Follow the instructions here if you dont know how:
+1. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JvbJbkd41mk?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. [Download OptiFine](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar).
+3. After this, in your Minecraft Launcher, navigate to the "Installations" tab, click the "**...**" next to the Forge profile, click "Edit".
 
-1. After downloaded, drop the JAR file into ***.minecraft\mods***.
+1. Click "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER TO A 5:**
+
+![JVM ARGS](https://i.darkvypr.com/jvm-args.jpg)
+
+5. Click "Save".
+
+1. From the **~/Mods** folder in the Mod Package, drag all of the files into `C:\Users\<USERNAME>\AppData\Roaming\.minecraft\mods`. If you don't have a mods folder, launch the Forge profile that you previously edited. Close it after it reaches the menu, then try again.
+
+1. Your mods should appear upon booting Minecraft if done correctly.
 
 ## ↘️ Mods List
 
