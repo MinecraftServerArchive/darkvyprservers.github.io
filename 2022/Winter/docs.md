@@ -16,7 +16,7 @@
 
 ## ↘️ Installation
 
-1. Download the <a href="https://www.mediafire.com/file/k8h4vh5p2xw5m4p/2022-winter-server-mod-package.zip/file">Mod Package</a>.
+1. Download the <a target="_blank" href="https://www.mediafire.com/file/k8h4vh5p2xw5m4p/2022-winter-server-mod-package.zip/file">Mod Package</a>.
 
 1. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
 
