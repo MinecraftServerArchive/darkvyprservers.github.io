@@ -4,11 +4,15 @@
 
 - This server is on Minecraft verison 1.12.2.
 
+<br>
+
 ## ↘️ Before Installation
 
 1. Make sure to add the 1.12.2 profile to your launcher. Inside the launcher, go to the installations tab, click "New Installation", give it a name, drop down the "Version" menu, then find "release 1.12.2".
 
 1. Click "Create", then run that profile. You may close your game when it loads to the menu.
+
+<br>
 
 ## ↘️ Installation
 
@@ -30,11 +34,15 @@
 
 1. Your mods should appear upon booting Minecraft if done correctly.
 
+<br>
+
 ## ↘️ Optional Visuals
 
 - In the Mod pack, there is a **~/OPTIONAL - Visuals** folder. Sildurs Shaders should be placed in the `\AppData\Roaming\.minecraft\shaderpacks` folder. Faithful can be placed in `\AppData\Roaming\.minecraft\resourcepacks`. Do not unzip these files.
 
-## ↘️ Mods List
+<br>
+
+## ↘️ Mods List (Don't Download From Here, Use The Package)
 
 <details open>
 <summary><b>Show/Hide</b></summary>
