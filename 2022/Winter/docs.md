@@ -74,6 +74,7 @@
     <li>OptiFine - <a href="https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar">Download Link</a></li>
     <li>Physics Mod - <a href="https://www.curseforge.com/minecraft/mc-mods/physics-mod/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>PneumaticCraft: Repressurized - <a href="https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
+    <li>Quark - <a href="https://www.curseforge.com/minecraft/mc-mods/quark/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Security Craft - <a href="https://www.curseforge.com/minecraft/mc-mods/security-craft/files/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Serene Seasons - <a href="https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/2799213/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Tinkers Construct - <a href="https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/download/2902483/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
