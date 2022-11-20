@@ -12,7 +12,7 @@
 
 ## ↘️ Installation
 
-1. Download the [Mod Package](https://drive.google.com/u/1/uc?id=1xaXSKPThHabcB3j5idpCYCFnhf4wMinM&export=download).
+1. Download the [Mod Package](https://download2268.mediafire.com/37ajdsfbi8tg/p3smloa5h2xefnn/2022-winter-server-mod-package.zip).
 
 1. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
 
@@ -26,9 +26,13 @@
 
 5. Click "Save".
 
-1. From the **~/Mods** folder in the Mod Package, drag all of the files into `C:\Users\<USERNAME>\AppData\Roaming\.minecraft\mods`. If you don't have a mods folder, launch the Forge profile that you previously edited. Close it after it reaches the menu, then try again.
+1. From the **~/Mods** folder in the Mod Package, drag all of the files into `\AppData\Roaming\.minecraft\mods`. If you don't have a mods folder, launch the Forge profile that you previously edited. Close it after it reaches the menu, then try again.
 
 1. Your mods should appear upon booting Minecraft if done correctly.
+
+## ↘️ Optional Visuals
+
+- In the Mod pack, there is a **~/OPTIONAL - Visuals** folder. Sildurs Shaders should be placed in the `\AppData\Roaming\.minecraft\shaderpacks` folder. Faithful can be placed in `\AppData\Roaming\.minecraft\resourcepacks`. Do not unzip these files.
 
 ## ↘️ Mods List
 
