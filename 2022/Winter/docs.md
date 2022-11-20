@@ -61,7 +61,7 @@
     <li>Galacticraft-Planets - <a href="https://micdoodle8.com/download?R2FsYWN0aWNyYWZ0LVBsYW5ldHMtMS4xMi4yLTQuMC4yLjI4MC5qYXI/aHR0cHM6Ly9taWNkb29kbGU4LmNvbS9uZXctYnVpbGRzL0dDLTEuMTIvMjgwL0dhbGFjdGljcmFmdC1QbGFuZXRzLTEuMTIuMi00LjAuMi4yODAuamFyP0dDLTFfMTI/Mjgw">Download Link</a></li>
     <li>GeckoLib - <a href="https://www.curseforge.com/minecraft/mc-mods/geckolib/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>What Are We Looking At - <a href="https://www.curseforge.com/minecraft/mc-mods/wawla/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
-    <li>Hbm's Nuclear Tech Mod Reloaded - <a href="https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-reloaded/files/3925803/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
+    <li>Hbm's Nuclear Tech Mod Reloaded - <a href="https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-reloaded/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Iron Chests - <a href="https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Industrial Craft - <a href="https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
     <li>Inventory Tweaks - <a href="https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/all?filter-game-version=2020709689%3A6756">Download Link</a></li>
