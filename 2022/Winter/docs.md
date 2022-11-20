@@ -14,21 +14,21 @@
 
 1. Download the [Mod Package](https://download2268.mediafire.com/37ajdsfbi8tg/p3smloa5h2xefnn/2022-winter-server-mod-package.zip).
 
-2. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
+1. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JvbJbkd41mk?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JvbJbkd41mk?start=155" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. After this, in your Minecraft Launcher, navigate to the "Installations" tab, click the "**...**" next to the Forge profile, click "Edit".
+1. After this, in your Minecraft Launcher, navigate to the "Installations" tab, click the "**...**" next to the Forge profile, click "Edit".
 
-4. Click "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER TO A 5:**
+1. Click "More Options", scroll down, then change **THE GREEN UNDERLINED NUMBER TO A 5:**
 
-![JVM ARGS](https://i.darkvypr.com/jvm-args.jpg)
+    ![JVM ARGS](https://i.darkvypr.com/jvm-args.jpg)
 
-5. Click "Save".
+1. Click "Save".
 
-6. From the **~/Mods** folder in the Mod Package, drag all of the files into `\AppData\Roaming\.minecraft\mods`. If you don't have a mods folder, launch the Forge profile that you previously edited. Close it after it reaches the menu, then try again.
+1. From the **~/Mods** folder in the Mod Package, drag all of the files into `\AppData\Roaming\.minecraft\mods`. If you don't have a mods folder, launch the Forge profile that you previously edited. Close it after it reaches the menu, then try again.
 
-7. Your mods should appear upon booting Minecraft if done correctly.
+1. Your mods should appear upon booting Minecraft if done correctly.
 
 ## ↘️ Optional Visuals
 
