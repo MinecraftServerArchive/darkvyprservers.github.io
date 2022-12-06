@@ -16,7 +16,7 @@
 
 ## ↘️ Installation
 
-1. Download the <a href="https://drive.google.com/file/d/1jz2MfxcMGtKXFCYo5Wysf1jqs-_M-wvf/view" target="_blank">Mod Package</a>.
+1. Download the <a href="https://drive.google.com/drive/folders/1fh8YkRZptE4KOHNoVOryNDeu2yUwk3Yw" target="_blank">Mod Package</a>.
 
 1. Install Forge from the **~/Forge** folder in the Mod Package. Follow the instructions here if you dont know how:
 
